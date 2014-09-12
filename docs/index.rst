@@ -9,11 +9,13 @@ Welcome to Testdoc's documentation!
 Example image:
 --------------
 
-.. image:: https://github.com/ryhanen/testdoc/blob/master/img/asana_console.png
+.. image:: ../img/asana_console.png
 
 Links are also possible:
 
 `Integround <http://www.integround.com>`_
+
+Code blocks:
 
 .. code-block:: xml
 
