@@ -15,7 +15,8 @@ Links are also possible:
 
 `Integround <http://www.integround.com>`_
 
-Code block::
+.. code-block:: xml
+
    <SupplierActivityAreas>
       <SupplierActivityArea>
          <CountryId>FI</CountryId>
@@ -26,6 +27,22 @@ Code block::
          <GeographicAreaId>90</GeographicAreaId>
       </SupplierActivityArea>
    </SupplierActivityAreas>   
+
+.. code-block:: c#
+
+   // ~/Models/HighlighterDbContext.cs
+
+   using System.Data.Entity;
+
+   namespace Hangfire.Highlighter.Models
+   {
+       public class HighlighterDbContext : DbContext
+       {
+           public HighlighterDbContext() : base("HighlighterDb")
+           {
+           }
+       }
+   }
 
 Contents:
 =========
