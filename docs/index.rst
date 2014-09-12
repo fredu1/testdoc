@@ -6,7 +6,26 @@
 Welcome to Testdoc's documentation!
 ===================================
 
+Example image:
+--------------
+
 .. image:: https://github.com/ryhanen/testdoc/blob/master/img/asana_console.png
+
+Links are also possible:
+
+`Integround <http://www.integround.com>`_
+
+Code block::
+   <SupplierActivityAreas>
+      <SupplierActivityArea>
+         <CountryId>FI</CountryId>
+         <GeographicAreaId>90</GeographicAreaId>
+      </SupplierActivityArea>
+      <SupplierActivityArea>
+         <CountryId>FI</CountryId>
+         <GeographicAreaId>90</GeographicAreaId>
+      </SupplierActivityArea>
+   </SupplierActivityAreas>   
 
 Contents:
 =========
