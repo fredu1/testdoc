@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-foobar
+   portal
 
 Indices and tables
 ==================
