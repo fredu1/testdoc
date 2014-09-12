@@ -7,16 +7,9 @@ Welcome to Testdoc's documentation!
 ===================================
 
 Contents:
+=========
 
 .. toctree::
    :maxdepth: 2
 
    portal
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
