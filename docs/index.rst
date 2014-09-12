@@ -13,3 +13,6 @@ Contents:
    :maxdepth: 2
 
    portal
+   client
+   faq
+   licesing
