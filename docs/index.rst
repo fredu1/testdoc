@@ -6,7 +6,7 @@
 Welcome to Testdoc's documentation!
 ===================================
 
-.. image:: http://hangfire.io/img/succeeded-job.png
+.. image:: https://github.com/ryhanen/testdoc/blob/master/img/asana_console.png
 
 Contents:
 =========
