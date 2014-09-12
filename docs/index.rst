@@ -6,6 +6,8 @@
 Welcome to Testdoc's documentation!
 ===================================
 
+.. image:: http://hangfire.io/img/succeeded-job.png
+
 Contents:
 =========
 
